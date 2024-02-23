@@ -57,8 +57,8 @@ This project is a User Management System API built with Laravel. It provides end
      php artisan serve
      
 
-2. *Open Application in Browser:*
-   - Open [http://localhost:8000](http://localhost:8000) (or the designated port) in your browser.
+2. *Run Application in Postman:*
+   - Open (http://localhost:8000/api/[route]).
 
 ## Steps to Run Tests
 - Run tests to ensure everything is working as expected:
